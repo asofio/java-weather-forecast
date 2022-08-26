@@ -1,12 +1,7 @@
 package com.example.springtest.weather.Models;
 
-import javax.print.attribute.standard.DateTimeAtCompleted;
-
 import lombok.Getter;
-import lombok.NoArgsConstructor;
 import lombok.Setter;
-import java.util.*;
-import org.joda.time.JodaTimePermission;
 import org.joda.time.LocalDate;
 
 @Getter @Setter
