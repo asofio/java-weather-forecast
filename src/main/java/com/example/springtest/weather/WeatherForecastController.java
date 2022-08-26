@@ -2,7 +2,6 @@ package com.example.springtest.weather;
 
 import java.util.ArrayList;
 import java.util.Random;
-import java.util.concurrent.ThreadLocalRandom;
 
 import org.joda.time.LocalDate;
 import org.springframework.web.bind.annotation.GetMapping;
